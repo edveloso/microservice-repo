@@ -1,8 +1,8 @@
 spring:
   datasource:
     password: root
-    username: root
-    url: 'jdbc:mysql://localhost:3307/transportador'
+    username: root00
+    url: 'jdbc:mysql://localhost:3306/transportador?createDatabaseIfNotExist=true'
   jpa:
     hibernate:
       ddl-auto: update
