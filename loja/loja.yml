@@ -1,7 +1,7 @@
 spring:
   datasource:
     password: root
-    username: root
+    username: root00
     url: 'jdbc:mysql://localhost:330c/loja?createDatabaseIfNotExist=true'
   jpa:
     hibernate:
